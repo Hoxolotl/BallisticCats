@@ -1,7 +1,7 @@
 # BallisticCats
 Ballistic Cats
 
-A 2D game where angry birds meets a little Peggle strategy.
+A 2D game where Angry Birds meets a little Peggle strategy.
 
 Gameplay design:
 The player plays a cat that has lost its kittens. The cat is a ballistic cat: you can select a direction and the amount of rebounds(1 to 8) the cat will make. The goal is to pick up as many kittens as possible in as few bounds as possible as fast as possible. Of course there are hazards you should avoid, like a cardboard box where the cat will sit for a little while and thus take time from succesfully completing the level.
